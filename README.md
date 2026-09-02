@@ -8,6 +8,13 @@
 4. Авторизуйте агент.
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
+---
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/01.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/02.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/03.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/04.png)
+
+---
 
 ## Основная часть
 
@@ -30,6 +37,20 @@
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
 19. В ответе пришлите ссылку на репозиторий.
+---
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/05.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/06.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/07.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/08.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/09.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/10.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/11.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/12.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/13.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/14.png)
+![teamcity](https://github.com/valdemar-2502/example-teamcity/blob/master/screenshots/15.png)
+
+---
 
 ---
 
