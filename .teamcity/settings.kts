@@ -38,6 +38,10 @@ object Build : BuildType({
 
     artifactRules = "target/*.jar => ."
 
+    params {
+        param("maven.goals", "clean deploy")
+    }
+
     vcs {
         root(DslContext.settingsRoot)
     }
